@@ -245,6 +245,8 @@ int main() {
                 printf("Invalid choice\n");
         }
     }
-    printf("TEst print ");
+    printf("Pupspas edit");
+    printf("PUspas second edit");
+
     return 0;
 }
